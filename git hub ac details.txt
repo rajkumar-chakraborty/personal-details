@@ -1,0 +1,15 @@
+git config --global user.name "rajkumar-chakraborty"
+
+
+
+git config --global user.email "suncomputer2022@gmail.com"
+
+
+
+
+git config --global user.password "Raj@721439"
+
+
+
+
+git config --global credential.helper store
